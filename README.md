@@ -1,2 +1,2 @@
 # TkinterApp
-![Screen](https://user-images.githubusercontent.com/72463762/187568515-3a34f786-4de2-4cf3-b6ab-38235f6431bc.png)
+![Screenshot 2022-08-31 034527](https://user-images.githubusercontent.com/72463762/187568640-6a66503f-1f39-4477-ad8d-4ae1ae3f11b1.png)
